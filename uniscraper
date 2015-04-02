@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import uniscrapers
+
+if __name__ == '__main__':
+    uniscrapers.main()
